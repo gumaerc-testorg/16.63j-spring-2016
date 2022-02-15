@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Assignments and Class Project
+parent_type: CourseSection
 parent_uid: c85f215f-459a-419a-dcfd-ebd4595c1543
-title: "Class project example \u2013\_Nancy's Shuttle"
+title: "Class project example \u2013 Nancy's Shuttle"
 uid: 525f2496-20bf-a7c8-15bf-2223929af831
 ---
 
