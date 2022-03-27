@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: ab43c7c8-150a-eda1-6ea0-3b92e01bd6b2
 resourcetype: Document
 title: 'System Safety: Discuss Citichem Causes, Hindsight Bias'
 uid: 150bcb2e-7d3b-4d6a-f077-9a9ce07d35af

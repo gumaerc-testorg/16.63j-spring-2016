@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: "Class project example \u2013\_Nancy's Shuttle"
 parent_type: CourseSection
+parent_uid: 525f2496-20bf-a7c8-15bf-2223929af831
 resourcetype: Image
 title: 16-63js16-figure1-physical-layout.jpg
 uid: 4407c22e-a9d3-a73b-aaa7-5433732a56ea

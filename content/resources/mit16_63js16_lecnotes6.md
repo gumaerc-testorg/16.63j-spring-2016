@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: ab43c7c8-150a-eda1-6ea0-3b92e01bd6b2
 resourcetype: Document
 title: 'System Safety: CAST and Accident Analysis'
 uid: d2501c7b-1ce1-3719-f388-12e6d249dbee

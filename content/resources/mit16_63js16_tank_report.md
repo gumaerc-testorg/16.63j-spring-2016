@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Assignments and Class Project
 parent_type: CourseSection
+parent_uid: c85f215f-459a-419a-dcfd-ebd4595c1543
 resourcetype: Document
 title: Stamp-based analysis of SBS tank 731 Overflow Accident
 uid: 02372ab0-1b44-5cc1-6256-6c2a31f1f12e

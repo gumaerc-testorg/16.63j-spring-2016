@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: ab43c7c8-150a-eda1-6ea0-3b92e01bd6b2
 resourcetype: Document
 title: 'System Safety: Traditional Hazard Analysis'
 uid: 398a8339-b4aa-e04a-89a7-f9bf13e52bab
