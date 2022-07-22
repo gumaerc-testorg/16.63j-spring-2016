@@ -1,8 +1,13 @@
 ---
 content_type: page
+description: This section provides an example of a class project completed for the
+  course.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Assignments and Class Project
+parent_type: CourseSection
 parent_uid: c85f215f-459a-419a-dcfd-ebd4595c1543
-title: "Class project example \u2013\_Nancy's Shuttle"
+title: "Class project example \u2013 Nancy's Shuttle"
 uid: 525f2496-20bf-a7c8-15bf-2223929af831
 ---
 
@@ -26,7 +31,7 @@ This document describes the role of automation in a new ride called "Nancy's Shu
 
 As shown in Figure 1, the ride site consists of three main areas: The Show Area, Station Area and Maintenance Area.
 
-![An illustration of a shuttle route]({{< resource_file 4407c22e-a9d3-a73b-aaa7-5433732a56ea >}})
+{{< resource 4407c22e-a9d3-a73b-aaa7-5433732a56ea >}}
 
 Figure 1 - Physical Layout. (Image courtesy of Nancy Leveson.)
 

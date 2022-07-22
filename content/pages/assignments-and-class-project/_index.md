@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides instructions for the course assignments.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Assignments and Class Project
 uid: c85f215f-459a-419a-dcfd-ebd4595c1543
 ---
@@ -15,7 +18,7 @@ Assignment 1: Citichem video
 Assignment 2: Summarize Accident Report
 ---------------------------------------
 
-1.  Read the [SBS Tank 731 overflow accident report (PDF)]({{< baseurl >}}/resources/mit16_63js16_tank_report) and analysis and find at least 2 instances of hindsight bias in this report.
+1.  Read the {{% resource_link 02372ab0-1b44-5cc1-6256-6c2a31f1f12e "SBS Tank 731 overflow accident report (PDF)" %}} and analysis and find at least 2 instances of hindsight bias in this report.
 2.  Select an accident report from the list of accidents (provided below) and summarize the report in a 5-10 minute presentation. When you read this accident report, answer the questions provided below.
     *   What was the cause identified in the report?
     *   Is there a chain of events described? What was it?
@@ -73,7 +76,7 @@ P4: Perform a Step 1 analysis in P1 for at least one human (operator) and one au
 
 P5: Perform a Step 2 analysis in P2 for the unsafe control actions you identified in Step 4. Generate recommendations for human factors design and technical design from the results.
 
-P6: What information should be passed to operations that you have created in your analysis? Create a plan for operators to use that information.\[See an [example]({{< baseurl >}}/pages/assignments-and-class-project/class-project-example-2013nancys-shuttle)\]
+P6: What information should be passed to operations that you have created in your analysis? Create a plan for operators to use that information.\[See an {{% resource_link 525f2496-20bf-a7c8-15bf-2223929af831 "example" %}}\]
 
 P7: What recommendations do you have for the overall safety control structure for the organization that will use this system?
 
