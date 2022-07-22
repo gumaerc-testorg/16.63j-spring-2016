@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of Nancy Leveson.
   image-alt: An illustration of a shuttle route.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: "Class project example \u2013\_Nancy's Shuttle"
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 16-63js16-figure1-physical-layout.jpg
 uid: 4407c22e-a9d3-a73b-aaa7-5433732a56ea
 ---
 Image courtesy of Nancy Leveson.
-

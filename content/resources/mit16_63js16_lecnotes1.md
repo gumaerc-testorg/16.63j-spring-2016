@@ -6,6 +6,7 @@ file: /courses/16-63j-system-safety-spring-2016/8a4b9ebb388cc40d421941b68c523ff8
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'System Safety: Introduction, Uberlingen; Class Description'
 uid: 8a4b9ebb-388c-c40d-4219-41b68c523ff8
 ---
 This resource contains information regarding system safety: Introduction, Uberlingen; Class description.
-

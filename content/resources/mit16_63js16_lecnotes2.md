@@ -6,6 +6,7 @@ file: /courses/16-63j-system-safety-spring-2016/ea17c9d91ee8820d10f52195f2798b01
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'System Safety: Introduction to Accident Causality, Bhopal, Hindsight Bia
 uid: ea17c9d9-1ee8-820d-10f5-2195f2798b01
 ---
 This resource contains information regarding system safety: Introduction to accident causality, Bhopal, Hindsight bias.
-
