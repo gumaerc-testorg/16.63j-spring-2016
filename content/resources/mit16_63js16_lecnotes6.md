@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding system safety: CAST and
   accident analysis.'
 file: /courses/16-63j-system-safety-spring-2016/d2501c7b1ce13719f38812e6d249dbee_MIT16_63JS16_LecNotes6.pdf
+file_size: 1340752
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
