@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding system safety: Traditional
   hazard analysis.'
 file: /courses/16-63j-system-safety-spring-2016/398a8339b4aae04a89a7f9bf13e52bab_MIT16_63JS16_LecNotes8.pdf
+file_size: 5753893
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
