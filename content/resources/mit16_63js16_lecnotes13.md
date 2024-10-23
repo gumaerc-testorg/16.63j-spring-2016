@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding system safety: STPA and
   review projects.'
-file: /courses/16-63j-system-safety-spring-2016/661489367b4e73b373c72e8ebcac3d55_MIT16_63JS16_LecNotes13.pdf
+file: /ol-ocw-studio-app/courses/16-63j-system-safety-spring-2016/661489367b4e73b373c72e8ebcac3d55_MIT16_63JS16_LecNotes13.pdf
 file_size: 944702
 file_type: application/pdf
 learning_resource_types:

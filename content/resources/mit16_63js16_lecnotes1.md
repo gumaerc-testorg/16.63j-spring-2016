@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding system safety: Introduction,
   Uberlingen; Class description.'
-file: /courses/16-63j-system-safety-spring-2016/8a4b9ebb388cc40d421941b68c523ff8_MIT16_63JS16_LecNotes1.pdf
+file: /ol-ocw-studio-app/courses/16-63j-system-safety-spring-2016/8a4b9ebb388cc40d421941b68c523ff8_MIT16_63JS16_LecNotes1.pdf
 file_size: 655968
 file_type: application/pdf
 learning_resource_types:
