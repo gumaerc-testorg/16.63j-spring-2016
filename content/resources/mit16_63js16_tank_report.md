@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding system safety.
-file: /courses/16-63j-system-safety-spring-2016/02372ab01b445cc162566c2a31f1f12e_MIT16_63JS16_Tank_Report.pdf
+file: /ol-ocw-studio-app/courses/16-63j-system-safety-spring-2016/02372ab01b445cc162566c2a31f1f12e_MIT16_63JS16_Tank_Report.pdf
 file_size: 543706
 file_type: application/pdf
 learning_resource_types: []
