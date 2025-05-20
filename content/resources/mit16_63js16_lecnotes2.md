@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding system safety: Introduction
   to accident causality, Bhopal, Hindsight bias.'
-file: /ol-ocw-studio-app/courses/16-63j-system-safety-spring-2016/ea17c9d91ee8820d10f52195f2798b01_MIT16_63JS16_LecNotes2.pdf
+file: /courses/16-63j-system-safety-spring-2016/ea17c9d91ee8820d10f52195f2798b01_MIT16_63JS16_LecNotes2.pdf
 file_size: 1796036
 file_type: application/pdf
 learning_resource_types:
