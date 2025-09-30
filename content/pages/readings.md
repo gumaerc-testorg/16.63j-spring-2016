@@ -9,7 +9,7 @@ title: Readings
 uid: df0ae1ef-fae9-3cb9-85ac-dcb8e8d1bc6c
 ---
 
-\[ESW\] = [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262016629) Leveson, Nancy G. _Engineering a Safer World: Systems Thinking Applied to Safety_. MIT Press, 2012. ISBN: 9780262016629. This book is available for purchase or as a [free download](https://mitpress.mit.edu/9780262016629) from the MIT Press website. \[Preview with [Google Books](http://books.google.com/books?id=6dDxCwAAQBAJ&pg=PAfrontcover)\]
+\[ESW\] = {{% resource_link "4e2bc434-4de8-450b-8f7a-ef85498da0a5" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Leveson, Nancy G. _Engineering a Safer World: Systems Thinking Applied to Safety_. MIT Press, 2012. ISBN: 9780262016629. This book is available for purchase or as a {{% resource_link "4e2bc434-4de8-450b-8f7a-ef85498da0a5" "free download" %}} from the MIT Press website. \[Preview with {{% resource_link "93c2804e-e592-4ed6-854e-87e0b9bf674d" "Google Books" %}}\]
 
 \[Safeware\] = ———. _Safeware: System Safety and Computers_ _1st Edition_. Addison-Wesley Professional, 1995. ISBN: 9780201119725.
 
